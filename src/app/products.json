@@ -1,0 +1,60 @@
+{
+  "products":[
+    {
+      "categoryid": 1,
+      "productname": "oppo mobile",
+      "price": 2000,
+      "productimg": "http://localhost:4200/assets/oppomob1.png",
+      "reviews": 10
+    },
+    {
+      "categoryid": 2,
+      "productname": "vivo mobile",
+      "price": 15000,
+      "productimg": "http://localhost:4200/assets/oppomob1.png",
+      "reviews": 100 
+    },
+    {
+      "categoryid": 3,
+      "productname": "samsung mobile",
+      "price": 1200,
+      "productimg": "http://localhost:4200/assets/oppomob1.png",
+      "reviews": 12
+    },
+    {
+      "categoryid": 4,
+      "productname": "Polo",
+      "price": 500,
+      "productimg": "http://localhost:4200/assets/t-shirt2.png",
+      "reviews": 10
+    },
+    {
+      "categoryid": 5,
+      "productname": "Nike",
+      "price": 5000,
+      "productimg": "http://localhost:4200/assets/t-shirt2.png",
+      "reviews": 7
+    },
+    {
+      "categoryid": 6,
+      "productname": "sparky",
+      "price": 5000,
+      "productimg": "http://localhost:4200/assets/t-shirt3.png",
+      "reviews": 15
+    },
+    {
+      "categoryid": 7,
+      "productname": "wrist watch",
+      "price": 2000,
+      "productimg": "http://localhost:4200/assets/watch1.png",
+      "reviews": 10
+    },
+    {
+      "categoryid": 8,
+      "productname": "Digital watch",
+      "price": 5000,
+      "productimg": "http://localhost:4200/assets/watch1.png",
+      "reviews": 11
+    }
+  ]
+}

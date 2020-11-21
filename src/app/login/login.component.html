@@ -1,0 +1,21 @@
+<div class="conatiner">
+  <h3>Login Form</h3>
+    <form>
+  <div class="form-group">
+        <label>
+          username :
+        </label>
+          <input type="text" class="form-control"  #uname>
+              </div>
+      <div class="form-group">
+        <label>
+          password :
+        </label>
+          <input type="text" class="form-control"  #pwd>
+      </div>
+
+<button (click)='check(uname.value, pwd.value)' class="btn btn-primary">log in</button>
+      </form>
+     <p>{{msg}}</p> 
+
+</div>
